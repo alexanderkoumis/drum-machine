@@ -1,0 +1,22 @@
+{
+  "name": "drum-machine",
+  "description": "OMG",
+  "main": "app.js",
+  "authors": [
+    "Alexander Koumis <me@alexander.computer>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "semantic": "semantic-ui#~2.2.4"
+  }
+}
